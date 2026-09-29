@@ -1,4 +1,4 @@
-# Customer Segmentation using Unsupervised Learning
+# Customer Segmentation using Clustering Techniques 
 
 This project explores customer behavior in a shopping mall by grouping shoppers into meaningful segments based on their demographics and purchase patterns. The analysis uses clustering techniques to uncover patterns in age, annual income, spending behavior, and gender, with a focus on business-friendly segmentation and model validation.
 
